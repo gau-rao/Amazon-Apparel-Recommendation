@@ -118,3 +118,24 @@ All these outputs, results can be seen in Ipynb file.
 This is like performance metric to evaluate our model in production, so here i'm gonna give an overview about it.
 
 if we build two models, we split the users into 2 categories named A and B. we deploy both models on both categories and compare the resutls and decide the better model.
+
+### Results/Output
+
+**Query Image**
+<p align="center">
+  <img src="Images/q.jpg" width="150" title="Query Image">
+</p>
+
+**Recommended Apparels**
+
+![image](Images/1.jpg)
+![image](Images/2.jpg)
+![image](Images/3.jpg)
+![image](Images/4.jpg)
+![image](Images/5.jpg)
+![image](Images/6.jpg)
+![image](Images/7.jpg)
+![image](Images/8.jpg)
+![image](Images/9.jpg)
+
+
